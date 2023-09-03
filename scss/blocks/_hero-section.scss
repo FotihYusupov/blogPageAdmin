@@ -1,0 +1,41 @@
+.hero-section__list {
+    margin: 0;
+    margin-top: 50px;
+    padding: 0;
+    width: 1000px;
+    list-style: none;
+}
+.hero-section__list-item {
+    margin-bottom: 25px;
+    padding: 0px 20px 20px 20px;
+    border-bottom: 2px solid #777777;
+}
+.hero-section__item-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.hero-section__item-text {
+    margin: 0;
+    margin-bottom: 20px;
+    color: #777777;
+}
+.hero-section__item-title {
+    margin: 0;
+    margin-bottom: 10px;
+    font-weight: normal;
+    color: #474747;
+}
+.hero-section__item-user {
+    margin: 0;
+    margin-bottom: 15px;
+    font-weight: normal;
+    color: #474747;
+}
+.hero-section__item-delete {
+    padding: 8px 12px;
+    border: 0px;
+    z-index: 5;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #dc3545;
+}
